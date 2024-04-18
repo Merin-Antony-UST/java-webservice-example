@@ -9,5 +9,5 @@ CREATE TABLE task (
 INSERT INTO task (name, description) VALUES
   ('name1', 'This is name 1'),
   ('name2', 'This is name 2'),
-  ('name3', 'This is name 3');
+  ('name3', 'This is name 3'),
   ('Merin', 'This is Merin');
