@@ -1,0 +1,10 @@
+C:\java-webservice-example\src\main\java\com\example\todo\TodoApplication.java
+C:\java-webservice-example\src\main\java\com\example\todo\controller\TasksController.java
+C:\java-webservice-example\src\main\java\com\example\todo\configuration\EhCacheConfiguration.java
+C:\java-webservice-example\src\main\java\com\example\todo\dto\TaskDTO.java
+C:\java-webservice-example\target\generated-sources\java\com\example\todo\entity\QTask.java
+C:\java-webservice-example\src\main\java\com\example\todo\configuration\Swagger2Configuration.java
+C:\java-webservice-example\src\main\java\com\example\todo\entity\Task.java
+C:\java-webservice-example\src\main\java\com\example\todo\links\TaskLinks.java
+C:\java-webservice-example\src\main\java\com\example\todo\service\TaskService.java
+C:\java-webservice-example\src\main\java\com\example\todo\repository\TasksRepository.java

@@ -1,0 +1,9 @@
+com\example\todo\controller\TasksController.class
+com\example\todo\links\TaskLinks.class
+com\example\todo\entity\Task.class
+com\example\todo\dto\TaskDTO.class
+com\example\todo\repository\TasksRepository.class
+com\example\todo\TodoApplication.class
+com\example\todo\service\TaskService.class
+com\example\todo\configuration\Swagger2Configuration.class
+com\example\todo\configuration\EhCacheConfiguration.class
